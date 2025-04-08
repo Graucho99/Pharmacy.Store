@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel1.jpg",
+      "PackagePath": "staticwebassets\\Images\\carousel1.jpg"
+    },
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel2.jpg",
+      "PackagePath": "staticwebassets\\Images\\carousel2.jpg"
+    },
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel3.jpg",
+      "PackagePath": "staticwebassets\\Images\\carousel3.jpg"
+    },
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\contact\\contact.jpg",
+      "PackagePath": "staticwebassets\\Images\\contact\\contact.jpg"
+    },
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\pharmacy-store-logo.png",
+      "PackagePath": "staticwebassets\\Images\\pharmacy-store-logo.png"
+    },
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\amox.png",
+      "PackagePath": "staticwebassets\\Images\\products\\amox.png"
+    },
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\enalapril.png",
+      "PackagePath": "staticwebassets\\Images\\products\\enalapril.png"
+    },
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\grammidin.png",
+      "PackagePath": "staticwebassets\\Images\\products\\grammidin.png"
+    },
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\pharmacy-store-logo.png",
+      "PackagePath": "staticwebassets\\Images\\products\\pharmacy-store-logo.png"
+    },
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\strepsils.png",
+      "PackagePath": "staticwebassets\\Images\\products\\strepsils.png"
+    },
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\vertex.png",
+      "PackagePath": "staticwebassets\\Images\\products\\vertex.png"
+    },
+    {
+      "Id": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Pharmacy.Store.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Pharmacy.Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Pharmacy.Store.props",
+      "PackagePath": "build\\Pharmacy.Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Pharmacy.Store.props",
+      "PackagePath": "buildMultiTargeting\\Pharmacy.Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Pharmacy.Store.props",
+      "PackagePath": "buildTransitive\\Pharmacy.Store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,12 @@
+wwwroot\css\site.css
+wwwroot\Images\carousel1.jpg
+wwwroot\Images\carousel2.jpg
+wwwroot\Images\carousel3.jpg
+wwwroot\Images\contact\contact.jpg
+wwwroot\Images\pharmacy-store-logo.png
+wwwroot\Images\products\amox.png
+wwwroot\Images\products\enalapril.png
+wwwroot\Images\products\grammidin.png
+wwwroot\Images\products\pharmacy-store-logo.png
+wwwroot\Images\products\strepsils.png
+wwwroot\Images\products\vertex.png

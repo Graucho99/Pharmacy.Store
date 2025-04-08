@@ -1,0 +1,29 @@
+﻿@model MedicamentListViewModel
+
+<h1>@Model.CurrentCategory</h1>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+
+    @foreach (var medicament in Model.Medicaments)
+    {
+        <div class="col">
+            <div class="card medicament-card">
+                <img src="@medicament.ImageThumbnailUrl" class="card-img-top" alt="@medicament.Name">
+                <div class="card-body medicament-button">
+                    <h4 class="d-grid">
+                    </h4>
+
+                    <div class="d-flex justify-content-between mt-2">
+                        <h2 class="text-start">
+                            <a class="medicament-link">@medicament.Name</a>
+                        </h2>
+                        <h5 class="text-nowrap">
+                            @medicament.Price.ToString("c")
+                        </h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+
+</div>

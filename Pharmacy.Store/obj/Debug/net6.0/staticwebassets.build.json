@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "Hash": "zg8HFxzJk9SBya0bum+nigTc5iT8rHRmLFAf0dWh+nM=",
+  "Source": "Pharmacy.Store",
+  "BasePath": "_content/Pharmacy.Store",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Pharmacy.Store\\wwwroot",
+      "Source": "Pharmacy.Store",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\css\\site.css",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g04lsmc0zq",
+      "Integrity": "kHt2hCdeqLkwUbNzAepGRV1koKpmiyC3xN0dydb+Fkk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel1.jpg",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "Images/carousel1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "250axjgo1s",
+      "Integrity": "Ngx35LPC1OlqghXP0+L/AaSkX99y+o4QSi3xq2UzK28=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\carousel1.jpg"
+    },
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel2.jpg",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "Images/carousel2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "di540si1od",
+      "Integrity": "G7tZFAPxX0y0JsAuubOOlLRYKi/uTnPNk9w+vEEzxwY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\carousel2.jpg"
+    },
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel3.jpg",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "Images/carousel3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "75zi2fnv44",
+      "Integrity": "lW/XvMH5/PzUBWPLxN7HjcSYa2kghP3ieoV9WcnRnC4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\carousel3.jpg"
+    },
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\contact\\contact.jpg",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "Images/contact/contact#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cotk21kct3",
+      "Integrity": "xAYi/86HBnmtRJYAXc6ztmC7jtwRRA6/mMxRv6zsspI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\contact\\contact.jpg"
+    },
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\pharmacy-store-logo.png",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "Images/pharmacy-store-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9sghzepimo",
+      "Integrity": "OXpR/sMKVON3e2WcStwx3Mhae1nL3qplfMv8RJX8JrA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\pharmacy-store-logo.png"
+    },
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\amox.png",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "Images/products/amox#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mcwbj0phkf",
+      "Integrity": "esRlipPYhpqFLucxzSlFAV0phiMO3ojDsrfU66f7YSk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\amox.png"
+    },
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\enalapril.png",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "Images/products/enalapril#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t4atj4a13r",
+      "Integrity": "c8TFQ5SUbMjIxSkNiQtfu5ZTcPagiENhZ/nEH+GeRo0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\enalapril.png"
+    },
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\grammidin.png",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "Images/products/grammidin#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w20f21rhta",
+      "Integrity": "KIRW2m/O/cN1xs1UlODC0H1kWcnKOah4TwI/VVjUQU4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\grammidin.png"
+    },
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\pharmacy-store-logo.png",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "Images/products/pharmacy-store-logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9sghzepimo",
+      "Integrity": "OXpR/sMKVON3e2WcStwx3Mhae1nL3qplfMv8RJX8JrA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\pharmacy-store-logo.png"
+    },
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\strepsils.png",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "Images/products/strepsils#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eei7zpjwbb",
+      "Integrity": "GnASWWWP/Qz6pg1GzVEVTukde7Df6bO540YX3KzN2M4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\strepsils.png"
+    },
+    {
+      "Identity": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\vertex.png",
+      "SourceId": "Pharmacy.Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\",
+      "BasePath": "_content/Pharmacy.Store",
+      "RelativePath": "Images/products/vertex#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n6s972ysqc",
+      "Integrity": "78W4vKQRaQlFVrDiobk/25O+7YQNbOJTri37GfwVx1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\vertex.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kHt2hCdeqLkwUbNzAepGRV1koKpmiyC3xN0dydb+Fkk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 16:07:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kHt2hCdeqLkwUbNzAepGRV1koKpmiyC3xN0dydb+Fkk="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.g04lsmc0zq.css",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kHt2hCdeqLkwUbNzAepGRV1koKpmiyC3xN0dydb+Fkk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 16:07:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g04lsmc0zq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kHt2hCdeqLkwUbNzAepGRV1koKpmiyC3xN0dydb+Fkk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel1.250axjgo1s.jpg",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ngx35LPC1OlqghXP0+L/AaSkX99y+o4QSi3xq2UzK28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 10:17:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "250axjgo1s"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/carousel1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ngx35LPC1OlqghXP0+L/AaSkX99y+o4QSi3xq2UzK28="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel1.jpg",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "174152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ngx35LPC1OlqghXP0+L/AaSkX99y+o4QSi3xq2UzK28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 10:17:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ngx35LPC1OlqghXP0+L/AaSkX99y+o4QSi3xq2UzK28="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel2.di540si1od.jpg",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7tZFAPxX0y0JsAuubOOlLRYKi/uTnPNk9w+vEEzxwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 10:17:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "di540si1od"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/carousel2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7tZFAPxX0y0JsAuubOOlLRYKi/uTnPNk9w+vEEzxwY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel2.jpg",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G7tZFAPxX0y0JsAuubOOlLRYKi/uTnPNk9w+vEEzxwY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 10:17:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G7tZFAPxX0y0JsAuubOOlLRYKi/uTnPNk9w+vEEzxwY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel3.75zi2fnv44.jpg",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lW/XvMH5/PzUBWPLxN7HjcSYa2kghP3ieoV9WcnRnC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 10:17:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "75zi2fnv44"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/carousel3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lW/XvMH5/PzUBWPLxN7HjcSYa2kghP3ieoV9WcnRnC4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/carousel3.jpg",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\carousel3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lW/XvMH5/PzUBWPLxN7HjcSYa2kghP3ieoV9WcnRnC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 10:17:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lW/XvMH5/PzUBWPLxN7HjcSYa2kghP3ieoV9WcnRnC4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/contact/contact.cotk21kct3.jpg",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\contact\\contact.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xAYi/86HBnmtRJYAXc6ztmC7jtwRRA6/mMxRv6zsspI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 10:17:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cotk21kct3"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/contact/contact.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAYi/86HBnmtRJYAXc6ztmC7jtwRRA6/mMxRv6zsspI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/contact/contact.jpg",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\contact\\contact.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xAYi/86HBnmtRJYAXc6ztmC7jtwRRA6/mMxRv6zsspI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 10:17:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAYi/86HBnmtRJYAXc6ztmC7jtwRRA6/mMxRv6zsspI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/pharmacy-store-logo.9sghzepimo.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\pharmacy-store-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OXpR/sMKVON3e2WcStwx3Mhae1nL3qplfMv8RJX8JrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 15:39:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9sghzepimo"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/pharmacy-store-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OXpR/sMKVON3e2WcStwx3Mhae1nL3qplfMv8RJX8JrA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/pharmacy-store-logo.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\pharmacy-store-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OXpR/sMKVON3e2WcStwx3Mhae1nL3qplfMv8RJX8JrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 15:39:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OXpR/sMKVON3e2WcStwx3Mhae1nL3qplfMv8RJX8JrA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/amox.mcwbj0phkf.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\amox.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"esRlipPYhpqFLucxzSlFAV0phiMO3ojDsrfU66f7YSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 04:30:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mcwbj0phkf"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/amox.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-esRlipPYhpqFLucxzSlFAV0phiMO3ojDsrfU66f7YSk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/amox.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\amox.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75980"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"esRlipPYhpqFLucxzSlFAV0phiMO3ojDsrfU66f7YSk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 04:30:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-esRlipPYhpqFLucxzSlFAV0phiMO3ojDsrfU66f7YSk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/enalapril.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\enalapril.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c8TFQ5SUbMjIxSkNiQtfu5ZTcPagiENhZ/nEH+GeRo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:48:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c8TFQ5SUbMjIxSkNiQtfu5ZTcPagiENhZ/nEH+GeRo0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/enalapril.t4atj4a13r.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\enalapril.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c8TFQ5SUbMjIxSkNiQtfu5ZTcPagiENhZ/nEH+GeRo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 13:48:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t4atj4a13r"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/enalapril.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c8TFQ5SUbMjIxSkNiQtfu5ZTcPagiENhZ/nEH+GeRo0="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/grammidin.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\grammidin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "265143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KIRW2m/O/cN1xs1UlODC0H1kWcnKOah4TwI/VVjUQU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 04:29:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KIRW2m/O/cN1xs1UlODC0H1kWcnKOah4TwI/VVjUQU4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/grammidin.w20f21rhta.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\grammidin.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "265143"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KIRW2m/O/cN1xs1UlODC0H1kWcnKOah4TwI/VVjUQU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 04:29:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w20f21rhta"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/grammidin.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KIRW2m/O/cN1xs1UlODC0H1kWcnKOah4TwI/VVjUQU4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/pharmacy-store-logo.9sghzepimo.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\pharmacy-store-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OXpR/sMKVON3e2WcStwx3Mhae1nL3qplfMv8RJX8JrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 15:39:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9sghzepimo"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/pharmacy-store-logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OXpR/sMKVON3e2WcStwx3Mhae1nL3qplfMv8RJX8JrA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/pharmacy-store-logo.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\pharmacy-store-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33497"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OXpR/sMKVON3e2WcStwx3Mhae1nL3qplfMv8RJX8JrA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 15:39:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OXpR/sMKVON3e2WcStwx3Mhae1nL3qplfMv8RJX8JrA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/strepsils.eei7zpjwbb.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\strepsils.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GnASWWWP/Qz6pg1GzVEVTukde7Df6bO540YX3KzN2M4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 04:28:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eei7zpjwbb"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/strepsils.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GnASWWWP/Qz6pg1GzVEVTukde7Df6bO540YX3KzN2M4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/strepsils.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\strepsils.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GnASWWWP/Qz6pg1GzVEVTukde7Df6bO540YX3KzN2M4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 04:28:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GnASWWWP/Qz6pg1GzVEVTukde7Df6bO540YX3KzN2M4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/vertex.n6s972ysqc.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\vertex.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"78W4vKQRaQlFVrDiobk/25O+7YQNbOJTri37GfwVx1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 04:30:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n6s972ysqc"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/vertex.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-78W4vKQRaQlFVrDiobk/25O+7YQNbOJTri37GfwVx1A="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/vertex.png",
+      "AssetFile": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\Images\\products\\vertex.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"78W4vKQRaQlFVrDiobk/25O+7YQNbOJTri37GfwVx1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 04:30:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-78W4vKQRaQlFVrDiobk/25O+7YQNbOJTri37GfwVx1A="
+        }
+      ]
+    }
+  ]
+}
