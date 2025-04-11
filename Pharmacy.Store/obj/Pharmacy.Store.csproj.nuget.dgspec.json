@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj": {}
+    "B:\\final\\Pharmacy.Store\\Pharmacy.Store.csproj": {}
   },
   "projects": {
-    "B:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj": {
+    "B:\\final\\Pharmacy.Store\\Pharmacy.Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj",
+        "projectUniqueName": "B:\\final\\Pharmacy.Store\\Pharmacy.Store.csproj",
         "projectName": "Pharmacy.Store",
-        "projectPath": "B:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj",
+        "projectPath": "B:\\final\\Pharmacy.Store\\Pharmacy.Store.csproj",
         "packagesPath": "C:\\Users\\kropo\\.nuget\\packages\\",
-        "outputPath": "B:\\Pharmacy.Store\\Pharmacy.Store\\obj\\",
+        "outputPath": "B:\\final\\Pharmacy.Store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,13 +53,13 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.5, )"
+              "version": "[6.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.5, )"
+              "version": "[6.0.4, )"
             }
           },
           "imports": [

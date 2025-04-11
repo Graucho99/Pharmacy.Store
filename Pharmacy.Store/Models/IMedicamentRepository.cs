@@ -4,7 +4,7 @@
     {
         IEnumerable<Medicament> AllMedicaments { get; }
         IEnumerable<Medicament> DiscountsOfTheWeek { get; }
-        Medicament? GetMedicamentById(int MedicamentId);
+        Medicament? GetMedicamentById(int medicamentId);
         IEnumerable<Medicament> SearchMedicaments(string searchQuery);
     }
 }

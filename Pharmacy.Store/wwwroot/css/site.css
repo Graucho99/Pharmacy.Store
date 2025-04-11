@@ -36,7 +36,7 @@
     --bs-danger: #dc3545;
     --bs-light: #f8f9fa;
     --bs-dark: #212529;
-    --bs-primary-rgb: 82, 174, 200;
+    --bs-primary-rgb: 200, 125, 82;
     --bs-secondary-rgb: 255, 208, 201;
     --bs-success-rgb: 25, 135, 84;
     --bs-info-rgb: 13, 202, 240;
@@ -232,7 +232,7 @@ sup {
 }
 
 a {
-    color: #C87D52;
+    color: #65707b;
     text-decoration: underline;
 }
 
@@ -3099,13 +3099,13 @@ textarea.form-control-lg {
 
 .btn-secondary {
     color: #000;
-    background-color: #FFD0C9;
-    border-color: #FFD0C9;
+    background-color: #a9b1bb;
+    border-color: #e5e5e5;
 }
 
     .btn-secondary:hover {
         color: #000;
-        background-color: #ffd7d1;
+        background-color: #f9fafb;
         border-color: #ffd5ce;
     }
 
@@ -8252,7 +8252,7 @@ textarea.form-control-lg {
 
 .bg-primary {
     --bs-bg-opacity: 1;
-    background-color: rgb(82 174 200) !important;
+    background-color: #969ba1 !important;
 }
 
 .bg-secondary {
@@ -11741,8 +11741,8 @@ h1, .h1 {
 }
 
 h2, .h2 {
-    font-weight: 700;
-    font-size: 26px;
+    font-weight: 600;
+    font-size: 20px;
 }
 
 h3, .h3 {
@@ -11796,7 +11796,7 @@ h6, .h6 {
     }
 
     .nav-item.dropdown li {
-        background-color: #C87D52;
+        background-color: #969ba1;
         font-weight: 600;
         font-size: 16px;
         text-transform: uppercase;
@@ -11818,14 +11818,14 @@ h6, .h6 {
 
 .logo-mark {
     position: relative;
-    height: 167.95px;
-    width: 144.06px;
+    height: 180.95px;
+    width: 180.06px;
     top: -84px;
     margin-bottom: -44px;
 }
 
 .medicaments-of-the-week {
-    margin-top: 52px;
+    margin-top: 22px;
 }
 
 .medicament-button {

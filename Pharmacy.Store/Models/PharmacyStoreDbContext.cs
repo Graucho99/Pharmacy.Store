@@ -1,22 +1,18 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Pharmacy.Store.Configuration;
 
 namespace Pharmacy.Store.Models
 {
-    public class PharmacyStoreDbContext:DbContext
+    public class PharmacyStoreDbContext : DbContext
     {
         public PharmacyStoreDbContext(DbContextOptions<PharmacyStoreDbContext> options)
-            :base(options) { }
+            : base(options) { }
 
         public DbSet<Medicament> Medicaments { get; set; }
-        public DbSet<Category> Categories { get; set; }    
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.ApplyConfiguration(new MedicamentConfiguration());
-            modelBuilder.ApplyConfiguration(new CategoryConfiguration());
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<ShoppingCartItem> ShoppingCartItems { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderDetail> OrderDetails { get; set; }
 
-            base.OnModelCreating(modelBuilder);
-        }
 
     }
 }

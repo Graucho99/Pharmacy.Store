@@ -4,18 +4,18 @@ namespace Pharmacy.Store.Models
 {
     public class MedicamentRepository : IMedicamentRepository
     {
-        private readonly PharmacyStoreDbContext _pharmacyStoreDbContextDbContext;
+        private readonly PharmacyStoreDbContext _pharmacyStoreDbContext;
 
-        public MedicamentRepository(PharmacyStoreDbContext pharmacyStoreDbContextDbContext)
+        public MedicamentRepository(PharmacyStoreDbContext bethanysMedicamentShopDbContext)
         {
-            _pharmacyStoreDbContextDbContext = pharmacyStoreDbContextDbContext;
+            _pharmacyStoreDbContext = bethanysMedicamentShopDbContext;
         }
 
         public IEnumerable<Medicament> AllMedicaments
         {
             get
             {
-                return _pharmacyStoreDbContextDbContext.Medicaments.Include(c => c.Category);
+                return _pharmacyStoreDbContext.Medicaments.Include(c => c.Category);
             }
         }
 
@@ -23,18 +23,18 @@ namespace Pharmacy.Store.Models
         {
             get
             {
-                return _pharmacyStoreDbContextDbContext.Medicaments.Include(c => c.Category).Where(p => p.IsDiscountOfTheWeek);
+                return _pharmacyStoreDbContext.Medicaments.Include(c => c.Category).Where(p => p.IsDiscountOfTheWeek);
             }
         }
 
-        public Medicament? GetMedicamentById(int MedicamentId)
+        public Medicament? GetMedicamentById(int medicamentId)
         {
-            return _pharmacyStoreDbContextDbContext.Medicaments.FirstOrDefault(p => p.MedicamentId == MedicamentId);
+            return _pharmacyStoreDbContext.Medicaments.FirstOrDefault(p => p.MedicamentId == medicamentId);
         }
 
         public IEnumerable<Medicament> SearchMedicaments(string searchQuery)
         {
-            throw new NotImplementedException();
+            return _pharmacyStoreDbContext.Medicaments.Where(p => p.Name.Contains(searchQuery));
         }
     }
 }

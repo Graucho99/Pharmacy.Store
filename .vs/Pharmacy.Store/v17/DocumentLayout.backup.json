@@ -1,193 +1,282 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "B:\\Pharmacy.Store\\",
+  "WorkspaceRootPath": "B:\\final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\controllers\\medicamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\controllers\\medicamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\lib\\bootstrap\\css\\bootstrap-utilities.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\lib\\bootstrap\\css\\bootstrap-utilities.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\order\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\order\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\medicament\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\medicament\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\shared\\_medicamentcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\shared\\_medicamentcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\models\\ishoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\ishoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\pages\\app\\searchblazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\pages\\app\\searchblazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\pages\\app\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\pages\\app\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\pages\\app\\medicamentcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\pages\\app\\medicamentcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\models\\pharmacystoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\pharmacystoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\medicament\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\medicament\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\models\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\models\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\configuration\\medicamentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\configuration\\medicamentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\models\\imedicamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\imedicamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PharmacyStore8854/True/SqlTable/dbo.Medicaments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\views\\medicament\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\medicament\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\models\\medicamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\medicamentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\viewmodels\\medicamentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\viewmodels\\medicamentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\viewmodels\\medicamentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\migrations\\20250408125908_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\migrations\\20250408125908_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\pharmacy.store\\pharmacy.store\\pharmacy.store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\pharmacy.store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\shared\\components\\categorymenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\shared\\components\\categorymenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Pharmacy.Store.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Pharmacy.Store.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\controllers\\medicamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\controllers\\medicamentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\migrations\\20220607195917_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\migrations\\20220607195917_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Pharmacy.Store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Pharmacy.Store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\views\\medicament\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\views\\medicament\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Views\\Pie\\List.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Views\\Pie\\List.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Models\\MockPieRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\migrations\\20250409191805_orderadded.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\migrations\\20250409191805_orderadded.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\migrations\\20220607195917_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\migrations\\20220607195917_initialmigration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\migrations\\pharmacystoredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\migrations\\pharmacystoredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\migrations\\20250409191805_orderadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\migrations\\20250409191805_orderadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\migrations\\20250409074753_addshoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\migrations\\20250409074753_addshoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\models\\medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\pages\\app\\medicamentcard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\pages\\app\\medicamentcard.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|b:\\final\\pharmacy.store\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34CC4BC0-C522-4995-9E9F-A3F38C8F71EE}|Pharmacy.Store\\Pharmacy.Store.csproj|solutionrelative:pharmacy.store\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Pages\\App\\PieCard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Pages\\App\\PieCard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Models\\MockPieRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\MockPieRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Models\\Pie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\Pie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Models\\MockCategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Models\\MockCategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\MockCategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Models\\IPieRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\IPieRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Migrations\\BethanysPieShopDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Migrations\\BethanysPieShopDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\Images\\carousel1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\wwwroot\\Images\\carousel1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Migrations\\20220608195712_OrdersAdded.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Migrations\\20220608195712_OrdersAdded.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logo_horiz-white.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logo_horiz-white.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logomark.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logomark.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Controllers\\PieController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Controllers\\PieController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Models\\ICategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\ICategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Controllers\\MedicamentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Controllers\\MedicamentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Models\\MedicamentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\MedicamentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\ViewModels\\PieListViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\ViewModels\\PieListViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Models\\IMedicamentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\IMedicamentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\lib\\bootstrap\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\lib\\bootstrap\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Models\\DbInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\DbInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Models\\Medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\Medicament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\Pharmacy.Store\\BethanysPieShop\\lib\\bootstrap\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\lib\\bootstrap\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Controllers\\Api\\SearchController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Controllers\\Api\\SearchController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Components\\ShoppingCartSummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Components\\ShoppingCartSummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Models\\ShoppingCartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\ShoppingCartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Components\\CategoryMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Components\\CategoryMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Models\\PharmacyStoreDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\PharmacyStoreDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Models\\ShoppingCart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Models\\ShoppingCart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Controllers\\ShoppingCartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Controllers\\ShoppingCartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Pharmacy.Store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Pharmacy.Store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Views\\Order\\CheckoutComplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Views\\Order\\CheckoutComplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|B:\\final\\BethanysPieShop\\Views\\Order\\Checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BethanysPieShop\\Views\\Order\\Checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -197,559 +286,840 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "bootstrap-utilities.rtl.css.map",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
-              "RelativeToolTip": "Pharmacy.Store\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdOwAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-08T17:22:34.297Z",
-              "EditorCaption": ""
+              "DocumentIndex": 11,
+              "Title": "SearchBlazor.razor",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Pages\\App\\SearchBlazor.razor",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Pages\\App\\SearchBlazor.razor",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Pages\\App\\SearchBlazor.razor",
+              "RelativeToolTip": "Pharmacy.Store\\Pages\\App\\SearchBlazor.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T09:57:39.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "bootstrap-utilities.css.map",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
-              "RelativeToolTip": "Pharmacy.Store\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABaOwAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-08T17:22:30.355Z",
+              "DocumentIndex": 1,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Order\\Checkout.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\Order\\Checkout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T09:44:35.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\ICategoryRepository.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\ICategoryRepository.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Models\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:17:19.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\CategoryRepository.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\CategoryRepository.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Models\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:03:21.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Configuration\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Configuration\\CategoryConfiguration.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Configuration\\CategoryConfiguration.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Configuration\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T12:27:36.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MedicamentController.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Controllers\\MedicamentController.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Controllers\\MedicamentController.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Controllers\\MedicamentController.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Controllers\\MedicamentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:04:21.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Program.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Program.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Program.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:48:09.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MedicamentConfiguration.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Configuration\\MedicamentConfiguration.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Configuration\\MedicamentConfiguration.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Configuration\\MedicamentConfiguration.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Configuration\\MedicamentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T11:50:46.465Z",
-              "EditorCaption": ""
+              "Title": "_MedicamentCard.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\Shared\\_MedicamentCard.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Shared\\_MedicamentCard.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\Shared\\_MedicamentCard.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\Shared\\_MedicamentCard.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T12:56:43.239Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PharmacyStoreDbContext.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\PharmacyStoreDbContext.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\PharmacyStoreDbContext.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\PharmacyStoreDbContext.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Models\\PharmacyStoreDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:42:52.108Z",
+              "Title": "CheckoutComplete.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Order\\CheckoutComplete.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\Order\\CheckoutComplete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T09:44:37.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\wwwroot\\css\\site.css",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Pharmacy.Store\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAFQuAAAAAAAAAAAAAFQuAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-08T13:05:05.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\appsettings.json",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\appsettings.json",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\appsettings.json",
-              "RelativeToolTip": "Pharmacy.Store\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T12:34:29.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Medicament.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\Medicament.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\Medicament.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\Medicament.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Models\\Medicament.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Controllers\\OrderController.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:03:46.833Z",
+              "WhenOpened": "2025-04-11T09:45:39.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IMedicamentRepository.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\IMedicamentRepository.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\IMedicamentRepository.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\IMedicamentRepository.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Models\\IMedicamentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\Order.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Models\\Order.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:03:23.198Z"
+              "WhenOpened": "2025-04-11T09:45:52.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\DbInitializer.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\DbInitializer.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Models\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACrAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T13:11:44.668Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T05:50:38.036Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\Medicament\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Medicament\\Details.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\Medicament\\Details.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\Medicament\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T10:02:34.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:58:49.991Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Category.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\Category.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\Category.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\ShoppingCart.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:09:51.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T10:00:56.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\_ViewStart.cshtml",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Pharmacy.Store\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T07:19:30.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\_ViewImports.cshtml",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Pharmacy.Store\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T07:19:27.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pharmacy.Store\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T07:19:25.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MedicamentRepository.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\MedicamentRepository.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\MedicamentRepository.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Models\\MedicamentRepository.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Models\\MedicamentRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IShoppingCart.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Models\\IShoppingCart.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\IShoppingCart.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Models\\IShoppingCart.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Models\\IShoppingCart.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:57:30.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "dbo.Medicaments.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PharmacyStore8854/True/SqlTable/dbo.Medicaments.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PharmacyStore8854/True/SqlTable/dbo.Medicaments.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-04-08T15:44:53.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Views\\Medicament\\List.cshtml",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Medicament\\List.cshtml",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Views\\Medicament\\List.cshtml",
-              "RelativeToolTip": "Pharmacy.Store\\Views\\Medicament\\List.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T07:16:14.562Z"
+              "WhenOpened": "2025-04-11T10:01:40.046Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "MedicamentListViewModel.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\ViewModels\\MedicamentListViewModel.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\ViewModels\\MedicamentListViewModel.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\ViewModels\\MedicamentListViewModel.cs",
-              "RelativeToolTip": "Pharmacy.Store\\ViewModels\\MedicamentListViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Title": "MedicamentController.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Controllers\\MedicamentController.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Controllers\\MedicamentController.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Controllers\\MedicamentController.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Controllers\\MedicamentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:11:48.321Z"
+              "WhenOpened": "2025-04-10T12:38:00.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T08:02:46.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Pages\\App\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Pages\\App\\Index.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Pages\\App\\Index.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Pages\\App\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T09:57:35.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T12:38:25.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MedicamentCard.razor",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Pages\\App\\MedicamentCard.razor",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Pages\\App\\MedicamentCard.razor",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Pages\\App\\MedicamentCard.razor",
+              "RelativeToolTip": "Pharmacy.Store\\Pages\\App\\MedicamentCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T12:28:43.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\Medicament\\Search.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Medicament\\Search.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\Medicament\\Search.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\Medicament\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T12:56:52.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.css",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\wwwroot\\css\\site.css",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Pharmacy.Store\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAE4CAAAAAAAAAAAmwGICAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-11T05:40:29.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Home\\Index.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T05:37:10.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MedicamentListViewModel.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\ViewModels\\MedicamentListViewModel.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\ViewModels\\MedicamentListViewModel.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\ViewModels\\MedicamentListViewModel.cs",
+              "RelativeToolTip": "Pharmacy.Store\\ViewModels\\MedicamentListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:36:57.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Carousel.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\Shared\\_Carousel.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Shared\\_Carousel.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\Shared\\_Carousel.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\Shared\\_Carousel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T06:22:44.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\Shared\\Components\\CategoryMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T05:50:02.825Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Pharmacy.Store.csproj",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Pharmacy.Store.csproj",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj",
-              "RelativeToolTip": "Pharmacy.Store\\Pharmacy.Store.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-08T07:41:59.95Z"
+              "Title": "List.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Views\\Medicament\\List.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Views\\Medicament\\List.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Views\\Medicament\\List.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Views\\Medicament\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T12:57:08.039Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "20250408125908_InitialMigration.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\Pharmacy.Store\\Migrations\\20250408125908_InitialMigration.cs",
-              "RelativeDocumentMoniker": "Pharmacy.Store\\Migrations\\20250408125908_InitialMigration.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\Pharmacy.Store\\Migrations\\20250408125908_InitialMigration.cs",
-              "RelativeToolTip": "Pharmacy.Store\\Migrations\\20250408125908_InitialMigration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAlAAAAAAAAAA==",
+              "Title": "20220607195917_InitialMigration.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Migrations\\20220607195917_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Migrations\\20220607195917_InitialMigration.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Migrations\\20220607195917_InitialMigration.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Migrations\\20220607195917_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T12:59:08.424Z"
+              "WhenOpened": "2025-04-11T05:18:48.283Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Pharmacy.Store.csproj",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Pharmacy.Store.csproj",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Pharmacy.Store.csproj",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Pharmacy.Store.csproj",
-              "RelativeToolTip": "BethanysPieShop\\Pharmacy.Store.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-08T07:00:50.21Z"
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Controllers\\HomeController.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:28:29.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\appsettings.json",
-              "RelativeDocumentMoniker": "BethanysPieShop\\appsettings.json",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\appsettings.json",
-              "RelativeToolTip": "BethanysPieShop\\appsettings.json",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-08T20:33:45.097Z"
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "Pharmacy.Store\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:36:52.404Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "Pharmacy.Store.csproj",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Pharmacy.Store.csproj",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Pharmacy.Store.csproj",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Pharmacy.Store.csproj",
-              "RelativeToolTip": "BethanysPieShop\\Pharmacy.Store.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-08T20:16:03.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Views\\Pie\\List.cshtml",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\Pie\\List.cshtml",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Views\\Pie\\List.cshtml",
-              "RelativeToolTip": "BethanysPieShop\\Views\\Pie\\List.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T16:29:30.027Z"
+              "Title": "ShoppingCartViewModel.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\ViewModels\\ShoppingCartViewModel.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeToolTip": "Pharmacy.Store\\ViewModels\\ShoppingCartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:37:04.088Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "MockPieRepository.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\MockPieRepository.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\MockPieRepository.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\MockPieRepository.cs",
-              "RelativeToolTip": "BethanysPieShop\\Models\\MockPieRepository.cs",
+              "Title": "20220607195917_InitialMigration.Designer.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Migrations\\20220607195917_InitialMigration.Designer.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Migrations\\20220607195917_InitialMigration.Designer.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Migrations\\20220607195917_InitialMigration.Designer.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Migrations\\20220607195917_InitialMigration.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv24AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:26:18.892Z"
+              "WhenOpened": "2025-04-11T05:25:14.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250409191805_OrderAdded.Designer.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Migrations\\20250409191805_OrderAdded.Designer.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Migrations\\20250409191805_OrderAdded.Designer.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Migrations\\20250409191805_OrderAdded.Designer.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Migrations\\20250409191805_OrderAdded.Designer.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAkwAkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:22:07.733Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BethanysPieShop\\Views\\Shared\\_Layout.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T16:52:28.191Z"
+              "Title": "PharmacyStoreDbContextModelSnapshot.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Migrations\\PharmacyStoreDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Migrations\\PharmacyStoreDbContextModelSnapshot.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Migrations\\PharmacyStoreDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Migrations\\PharmacyStoreDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:21:22.798Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "Pie.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\Pie.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\Pie.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\Pie.cs",
-              "RelativeToolTip": "BethanysPieShop\\Models\\Pie.cs",
+              "Title": "20250409191805_OrderAdded.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Migrations\\20250409191805_OrderAdded.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Migrations\\20250409191805_OrderAdded.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Migrations\\20250409191805_OrderAdded.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Migrations\\20250409191805_OrderAdded.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwv1QAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:26:21.115Z"
+              "WhenOpened": "2025-04-11T05:20:34.272Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "Program.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Program.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Program.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Program.cs",
-              "RelativeToolTip": "BethanysPieShop\\Program.cs",
+              "Title": "20250409074753_AddShoppingCartItem.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Migrations\\20250409074753_AddShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Migrations\\20250409074753_AddShoppingCartItem.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Migrations\\20250409074753_AddShoppingCartItem.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Migrations\\20250409074753_AddShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T16:14:48.501Z"
+              "WhenOpened": "2025-04-11T05:20:08.777Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "Category.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\Category.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\Category.cs",
-              "RelativeToolTip": "BethanysPieShop\\Models\\Category.cs",
+              "Title": "Medicament.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Models\\Medicament.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Models\\Medicament.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Models\\Medicament.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Models\\Medicament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T07:48:15.069Z"
+              "WhenOpened": "2025-04-10T12:58:09.994Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "MockCategoryRepository.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\MockCategoryRepository.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\MockCategoryRepository.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\MockCategoryRepository.cs",
-              "RelativeToolTip": "BethanysPieShop\\Models\\MockCategoryRepository.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T05:48:52.395Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Properties\\launchSettings.json",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Pharmacy.Store\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T12:41:53.684Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "IPieRepository.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\IPieRepository.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\IPieRepository.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\IPieRepository.cs",
-              "RelativeToolTip": "BethanysPieShop\\Models\\IPieRepository.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T05:45:31.494Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\appsettings.json",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\appsettings.json",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\appsettings.json",
+              "RelativeToolTip": "Pharmacy.Store\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T12:39:47.647Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "carousel1.jpg",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\Images\\carousel1.jpg",
-              "RelativeDocumentMoniker": "BethanysPieShop\\wwwroot\\Images\\carousel1.jpg",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\Images\\carousel1.jpg",
-              "RelativeToolTip": "BethanysPieShop\\wwwroot\\Images\\carousel1.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-08T11:50:00.289Z"
+              "Title": "MedicamentCard.razor.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Pages\\App\\MedicamentCard.razor.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Pages\\App\\MedicamentCard.razor.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Pages\\App\\MedicamentCard.razor.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Pages\\App\\MedicamentCard.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:28:59.078Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "bethanys-pie-shop-logo_horiz-white.png",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logo_horiz-white.png",
-              "RelativeDocumentMoniker": "BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logo_horiz-white.png",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logo_horiz-white.png",
-              "RelativeToolTip": "BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logo_horiz-white.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-08T11:50:03.873Z"
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pharmacy.Store\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T12:28:38.69Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "bethanys-pie-shop-logomark.png",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logomark.png",
-              "RelativeDocumentMoniker": "BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logomark.png",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logomark.png",
-              "RelativeToolTip": "BethanysPieShop\\wwwroot\\Images\\bethanys-pie-shop-logomark.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-08T11:50:05.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "PieController.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Controllers\\PieController.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\PieController.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Controllers\\PieController.cs",
-              "RelativeToolTip": "BethanysPieShop\\Controllers\\PieController.cs",
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "B:\\final\\Pharmacy.Store\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Pharmacy.Store\\Controllers\\ContactController.cs",
+              "ToolTip": "B:\\final\\Pharmacy.Store\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Pharmacy.Store\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:23:51.169Z"
+              "WhenOpened": "2025-04-10T12:28:31.034Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\_ViewStart.cshtml",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "BethanysPieShop\\Views\\_ViewStart.cshtml",
+              "Title": "PieCard.razor",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Pages\\App\\PieCard.razor",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Pages\\App\\PieCard.razor",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Pages\\App\\PieCard.razor",
+              "RelativeToolTip": "BethanysPieShop\\Pages\\App\\PieCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T16:26:49.473Z"
+              "WhenOpened": "2025-04-10T12:25:43.978Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\ICategoryRepository.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Models\\ICategoryRepository.cs",
-              "RelativeToolTip": "BethanysPieShop\\Models\\ICategoryRepository.cs",
+              "Title": "MockPieRepository.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Models\\MockPieRepository.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\MockPieRepository.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Models\\MockPieRepository.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\MockPieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T05:56:11.875Z"
+              "WhenOpened": "2025-04-10T12:23:24.276Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\_ViewImports.cshtml",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BethanysPieShop\\Views\\_ViewImports.cshtml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T16:26:51.531Z"
+              "Title": "MockCategoryRepository.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Models\\MockCategoryRepository.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\MockCategoryRepository.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Models\\MockCategoryRepository.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\MockCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:22:18.232Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
-              "Title": "PieListViewModel.cs",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\ViewModels\\PieListViewModel.cs",
-              "RelativeDocumentMoniker": "BethanysPieShop\\ViewModels\\PieListViewModel.cs",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\ViewModels\\PieListViewModel.cs",
-              "RelativeToolTip": "BethanysPieShop\\ViewModels\\PieListViewModel.cs",
+              "Title": "BethanysPieShopDbContextModelSnapshot.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Migrations\\BethanysPieShopDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Migrations\\BethanysPieShopDbContextModelSnapshot.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Migrations\\BethanysPieShopDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BethanysPieShop\\Migrations\\BethanysPieShopDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:23:17.908Z"
+              "WhenOpened": "2025-04-10T12:22:13.454Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
-              "Title": "bootstrap.js",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\lib\\bootstrap\\js\\bootstrap.js",
-              "RelativeDocumentMoniker": "BethanysPieShop\\lib\\bootstrap\\js\\bootstrap.js",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\lib\\bootstrap\\js\\bootstrap.js",
-              "RelativeToolTip": "BethanysPieShop\\lib\\bootstrap\\js\\bootstrap.js",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-07T06:50:49.91Z"
+              "Title": "20220608195712_OrdersAdded.Designer.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Migrations\\20220608195712_OrdersAdded.Designer.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Migrations\\20220608195712_OrdersAdded.Designer.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Migrations\\20220608195712_OrdersAdded.Designer.cs",
+              "RelativeToolTip": "BethanysPieShop\\Migrations\\20220608195712_OrdersAdded.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAJsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:22:12.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\ContactController.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\ContactController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:10:45.083Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
-              "Title": "libman.json",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\libman.json",
-              "RelativeDocumentMoniker": "BethanysPieShop\\libman.json",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\libman.json",
-              "RelativeToolTip": "BethanysPieShop\\libman.json",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-07T11:29:48.382Z"
+              "Title": "20220607204931_AddShoppingCartItem.Designer.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.Designer.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.Designer.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.Designer.cs",
+              "RelativeToolTip": "BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:22:07.458Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 45,
-              "Title": "site.css",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "BethanysPieShop\\wwwroot\\css\\site.css",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "BethanysPieShop\\wwwroot\\css\\site.css",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-18T16:30:01.59Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Program.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Program.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Program.cs",
+              "RelativeToolTip": "BethanysPieShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:00:49.523Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "B:\\Pharmacy.Store\\BethanysPieShop\\lib\\bootstrap\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "BethanysPieShop\\lib\\bootstrap\\css\\bootstrap.css",
-              "ToolTip": "B:\\Pharmacy.Store\\BethanysPieShop\\lib\\bootstrap\\css\\bootstrap.css",
-              "RelativeToolTip": "BethanysPieShop\\lib\\bootstrap\\css\\bootstrap.css",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-06T17:11:43.886Z"
+              "Title": "20220607195917_InitialMigraation.Designer.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.Designer.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.Designer.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.Designer.cs",
+              "RelativeToolTip": "BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:22:04.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20220607195917_InitialMigraation.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.cs",
+              "RelativeToolTip": "BethanysPieShop\\Migrations\\20220607195917_InitialMigraation.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:21:58.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MedicamentController.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Controllers\\MedicamentController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\MedicamentController.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Controllers\\MedicamentController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\MedicamentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:50:53.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MedicamentRepository.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Models\\MedicamentRepository.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\MedicamentRepository.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Models\\MedicamentRepository.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\MedicamentRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:06:03.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IMedicamentRepository.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Models\\IMedicamentRepository.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\IMedicamentRepository.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Models\\IMedicamentRepository.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\IMedicamentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:05:08.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\HomeController.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:50:45.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Models\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\DbInitializer.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Models\\DbInitializer.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACaAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:09:56.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Medicament.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Models\\Medicament.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\Medicament.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Models\\Medicament.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\Medicament.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:53:51.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\appsettings.json",
+              "RelativeDocumentMoniker": "BethanysPieShop\\appsettings.json",
+              "ToolTip": "B:\\final\\BethanysPieShop\\appsettings.json",
+              "RelativeToolTip": "BethanysPieShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T12:00:15.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Category.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\Category.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Models\\Category.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:15:14.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20220607204931_AddShoppingCartItem.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.cs",
+              "RelativeToolTip": "BethanysPieShop\\Migrations\\20220607204931_AddShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:14:29.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\Api\\SearchController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:12:52.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ShoppingCartSummary.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Components\\ShoppingCartSummary.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Components\\ShoppingCartSummary.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Components\\ShoppingCartSummary.cs",
+              "RelativeToolTip": "BethanysPieShop\\Components\\ShoppingCartSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:10:51.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ShoppingCartItem.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Models\\ShoppingCartItem.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\ShoppingCartItem.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Models\\ShoppingCartItem.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\ShoppingCartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:07:09.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CategoryMenu.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Components\\CategoryMenu.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Components\\CategoryMenu.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Components\\CategoryMenu.cs",
+              "RelativeToolTip": "BethanysPieShop\\Components\\CategoryMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:49:11.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Order.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\Order.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Models\\Order.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:50:59.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PharmacyStoreDbContext.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Models\\PharmacyStoreDbContext.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\PharmacyStoreDbContext.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Models\\PharmacyStoreDbContext.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\PharmacyStoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:49:33.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Models\\ShoppingCart.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "BethanysPieShop\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:51:03.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:50:53.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Pharmacy.Store.csproj",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Pharmacy.Store.csproj",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Pharmacy.Store.csproj",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Pharmacy.Store.csproj",
+              "RelativeToolTip": "BethanysPieShop\\Pharmacy.Store.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T11:47:47.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Controllers\\OrderController.cs",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BethanysPieShop\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:19:47.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CheckoutComplete.cshtml",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\Order\\CheckoutComplete.cshtml",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeToolTip": "BethanysPieShop\\Views\\Order\\CheckoutComplete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T07:19:36.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "B:\\final\\BethanysPieShop\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "BethanysPieShop\\Views\\Order\\Checkout.cshtml",
+              "ToolTip": "B:\\final\\BethanysPieShop\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "BethanysPieShop\\Views\\Order\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T07:18:58.136Z"
             }
           ]
         }

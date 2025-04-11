@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Pharmacy.Store\\BethanysPieShop\\BethanysPieShop.csproj": {}
+    "B:\\final\\BethanysPieShop\\BethanysPieShop.csproj": {}
   },
   "projects": {
-    "B:\\Pharmacy.Store\\BethanysPieShop\\BethanysPieShop.csproj": {
+    "B:\\final\\BethanysPieShop\\BethanysPieShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Pharmacy.Store\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectUniqueName": "B:\\final\\BethanysPieShop\\BethanysPieShop.csproj",
         "projectName": "BethanysPieShop",
-        "projectPath": "B:\\Pharmacy.Store\\BethanysPieShop\\BethanysPieShop.csproj",
+        "projectPath": "B:\\final\\BethanysPieShop\\BethanysPieShop.csproj",
         "packagesPath": "C:\\Users\\kropo\\.nuget\\packages\\",
-        "outputPath": "B:\\Pharmacy.Store\\BethanysPieShop\\obj\\",
+        "outputPath": "B:\\final\\BethanysPieShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,13 +53,13 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.20, )"
+              "version": "[6.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.20, )"
+              "version": "[6.0.4, )"
             }
           },
           "imports": [
