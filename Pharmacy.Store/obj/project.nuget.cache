@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tFVOP/EDC3k=",
+  "dgSpecHash": "1KZxjGIen5M=",
   "success": true,
-  "projectFilePath": "B:\\may\\Pharmacy.Store\\Pharmacy.Store.csproj",
+  "projectFilePath": "C:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kropo\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\kropo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

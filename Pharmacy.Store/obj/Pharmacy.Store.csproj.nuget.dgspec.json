@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\may\\Pharmacy.Store\\Pharmacy.Store.csproj": {}
+    "C:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj": {}
   },
   "projects": {
-    "B:\\may\\Pharmacy.Store\\Pharmacy.Store.csproj": {
+    "C:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\may\\Pharmacy.Store\\Pharmacy.Store.csproj",
+        "projectUniqueName": "C:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj",
         "projectName": "Pharmacy.Store",
-        "projectPath": "B:\\may\\Pharmacy.Store\\Pharmacy.Store.csproj",
+        "projectPath": "C:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj",
         "packagesPath": "C:\\Users\\kropo\\.nuget\\packages\\",
-        "outputPath": "B:\\may\\Pharmacy.Store\\obj\\",
+        "outputPath": "C:\\Pharmacy.Store\\Pharmacy.Store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

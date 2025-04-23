@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Models\MockPieRepository.cs" />
+    <Compile Remove="Models\MockMedicamentRepository.cs" />
   </ItemGroup>
 
 	<ItemGroup>

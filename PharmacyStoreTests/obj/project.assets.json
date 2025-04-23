@@ -12821,11 +12821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\may\\PharmacyStoreTests\\PharmacyStoreTests.csproj",
+      "projectUniqueName": "C:\\Pharmacy.Store\\PharmacyStoreTests\\PharmacyStoreTests.csproj",
       "projectName": "PharmacyStoreTests",
-      "projectPath": "B:\\may\\PharmacyStoreTests\\PharmacyStoreTests.csproj",
+      "projectPath": "C:\\Pharmacy.Store\\PharmacyStoreTests\\PharmacyStoreTests.csproj",
       "packagesPath": "C:\\Users\\kropo\\.nuget\\packages\\",
-      "outputPath": "B:\\may\\PharmacyStoreTests\\obj\\",
+      "outputPath": "C:\\Pharmacy.Store\\PharmacyStoreTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -12847,8 +12847,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "B:\\may\\Pharmacy.Store\\Pharmacy.Store.csproj": {
-              "projectPath": "B:\\may\\Pharmacy.Store\\Pharmacy.Store.csproj"
+            "C:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj": {
+              "projectPath": "C:\\Pharmacy.Store\\Pharmacy.Store\\Pharmacy.Store.csproj"
             }
           }
         }

@@ -14,13 +14,13 @@ namespace PharmacyStoreTests.Controllers
     public class MedicamentControllerTests
     {
         [Fact]
-        public void List_EmptyCategory_ReturnsAllPies()
+        public void List_EmptyCategory_ReturnsAllMedicaments()
         {
             //arrange
             var mockCategoryRepository = RepositoryMocks.GetCategoryRepository();
-            var mockPieRepository = RepositoryMocks.GetMedicamentRepository();
+            var mockMedicamentRepository = RepositoryMocks.GetMedicamentRepository();
 
-            var medicamentController = new MedicamentController(mockPieRepository.Object, mockCategoryRepository.Object);
+            var medicamentController = new MedicamentController(mockMedicamentRepository.Object, mockCategoryRepository.Object);
 
             //act
             var result = medicamentController.List("");
