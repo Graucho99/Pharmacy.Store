@@ -11,13 +11,15 @@ namespace Pharmacy.Store.Pages.App
         [Inject]
         public IMedicamentRepository? MedicamentRepository { get; set; }
 
-        private void Search()
+        private async Task SearchAsync()
         {
+            var medicament = await MedicamentRepository.SearchMedicamentsAsync(SearchText)
+                ?? throw new Exception();
             FilteredMedicaments.Clear();
             if (MedicamentRepository is not null)
             {
                 if (SearchText.Length >= 3)
-                    FilteredMedicaments = MedicamentRepository.SearchMedicaments(SearchText).ToList();
+                    FilteredMedicaments = medicament.ToList();
             }
         }
     }

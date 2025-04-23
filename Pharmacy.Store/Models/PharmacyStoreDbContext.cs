@@ -1,9 +1,17 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace Pharmacy.Store.Models
 {
-    public class PharmacyStoreDbContext : DbContext
+    /// <summary>
+    /// Класс DbContext приложения
+    /// </summary>
+    public class PharmacyStoreDbContext : IdentityDbContext
     {
+        /// <summary>
+        /// Конструктор класса
+        /// </summary>
+        /// <param name="options">Опции, наследующиеся от базового класса DbContext</param>
         public PharmacyStoreDbContext(DbContextOptions<PharmacyStoreDbContext> options)
             : base(options) { }
 

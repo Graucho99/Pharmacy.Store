@@ -1,0 +1,30 @@
+﻿@model MedicamentListViewModel
+
+@{
+    ViewBag.Title = "Страница администратора";
+}
+
+<div class="col">
+<table class="table">
+    <tr><th>Название</th><th>Цена</th><th>Категория</th></tr>
+    @foreach (var item in Model.Medicaments)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>@item.Category.CategoryName</td>
+            <td>
+                
+                        <a class="btn btn-sm btn-primary" asp-controller="Admin" asp-action="EditItem" asp-route-id="@item.MedicamentId">Изменить</a>
+                    <a class="btn btn-sm btn-primary" asp-controller="Admin" asp-action="Delete" asp-route-id="@item.MedicamentId">Удалить</a>
+
+                
+            </td>
+        </tr>
+    }
+</table>
+
+    <a asp-controller="Admin" asp-action="AddItem">Добавить новый</a>
+</div>
+
+

@@ -1,5 +1,9 @@
 ﻿namespace Pharmacy.Store.Models
 {
+    /// <summary>
+    /// Класс первоначальной инициализации полей БД данными в рамках тестирования
+    /// В дальнейшем можно удалить из конвейера промежуточного ПО
+    /// </summary>
     public class DbInitializer
     {
         public static void Seed(IApplicationBuilder applicationBuilder)
@@ -36,9 +40,9 @@
                 {
                     var genresList = new Category[]
                     {
-                        new Category { CategoryName = "Ухо, горло, нос" },
-                        new Category { CategoryName = "Антибиотики" },
-                        new Category { CategoryName = "Сердечно-сосудистые" }
+                        new() { CategoryName = "Ухо, горло, нос" },
+                        new() { CategoryName = "Антибиотики" },
+                        new() { CategoryName = "Сердечно-сосудистые" }
                     };
 
                     categories = new Dictionary<string, Category>();

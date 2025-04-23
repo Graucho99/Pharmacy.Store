@@ -1,5 +1,8 @@
 ﻿namespace Pharmacy.Store.Models
 {
+    /// <summary>
+    /// Детали заказа
+    /// </summary>
     public class OrderDetail
     {
         public int OrderDetailId { get; set; }

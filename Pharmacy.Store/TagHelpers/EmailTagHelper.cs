@@ -2,6 +2,7 @@
 
 namespace Pharmacy.Store.TagHelpers
 {
+    /*
     public class EmailTagHelper : TagHelper
     {
         public string? Address { get; set; }
@@ -13,6 +14,7 @@ namespace Pharmacy.Store.TagHelpers
 
             output.Attributes.SetAttribute("href", "mailto:" + Address);
             output.Content.SetContent(Content);
-        }
+        } 
     }
+    */
 }

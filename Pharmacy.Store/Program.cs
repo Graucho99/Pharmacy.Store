@@ -1,8 +1,10 @@
 using Pharmacy.Store.Models;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("PharmacyStoreDbContextConnection") ?? throw new InvalidOperationException("Connection string 'PharmacyStoreDbContextConnection' not found.");
 
 builder.Services.AddControllersWithViews()
     .AddJsonOptions(options =>
@@ -10,8 +12,6 @@ builder.Services.AddControllersWithViews()
         options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
     }); ;
 
-//builder.Services.AddScoped<ICategoryRepository, MockCategoryRepository>();
-//builder.Services.AddScoped<IMedicamentRepository, MockMedicamentRepository>();
 
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<IMedicamentRepository, MedicamentRepository>();
@@ -30,9 +30,13 @@ builder.Services.AddDbContext<PharmacyStoreDbContext>(options => {
         builder.Configuration["ConnectionStrings:PharmacyStoreDbContextConnection"]);
 });
 
+builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddRoles<IdentityRole>()
+    .AddEntityFrameworkStores<PharmacyStoreDbContext>();
+
 var app = builder.Build();
 
-//app.MapGet("/", () => "Hello World!");
+
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
@@ -41,6 +45,9 @@ if (app.Environment.IsDevelopment())
 app.UseStaticFiles();
 app.UseSession();
 
+app.UseAuthentication();
+app.UseAuthorization(); 
+
 //app.MapDefaultControllerRoute();
 
 app.MapControllerRoute(
@@ -48,11 +55,11 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.MapRazorPages();
-app.MapBlazorHub();
+//app.MapBlazorHub();
 
-app.MapFallbackToPage("/app/{*catchall}", "/App/Index");
+//app.MapFallbackToPage("/app/{*catchall}", "/App/Index");
 
-
+//Потом отключить
 DbInitializer.Seed(app);
 
 app.Run();

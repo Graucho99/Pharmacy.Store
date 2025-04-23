@@ -1,5 +1,8 @@
 ﻿namespace Pharmacy.Store.Models
 {
+    /// <summary>
+    /// Категории товаров
+    /// </summary>
     public class Category
     {
         public int CategoryId { get; set; }

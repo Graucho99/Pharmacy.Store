@@ -4,45 +4,68 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Pharmacy.Store.Controllers
 {
+    /// <summary>
+    /// Контроллер страницы корзины
+    /// </summary>
     public class ShoppingCartController : Controller
     {
         private readonly IMedicamentRepository _medicamentRepository;
         private readonly IShoppingCart _shoppingCart;
 
+        /// <summary>
+        /// Конструктор класса
+        /// </summary>
+        /// <param name="medicamentRepository">Объект репозитория медикаментов</param>
+        /// <param name="shoppingCart">Объект репозитория корзины</param>
         public ShoppingCartController(IMedicamentRepository medicamentRepository, IShoppingCart shoppingCart)
         {
             _medicamentRepository = medicamentRepository;
             _shoppingCart = shoppingCart;
 
         }
-        public ViewResult Index()
+        /// <summary>
+        /// Метод-обработчик страницы Index раздела ShoppingCart
+        /// </summary>
+        /// <returns></returns>
+        public async Task<ViewResult> Index()
         {
-            var items = _shoppingCart.GetShoppingCartItems();
+            var total = await _shoppingCart.GetShoppingCartTotalAsync();
+            var items = await _shoppingCart.GetShoppingCartItemsAsync();
             _shoppingCart.ShoppingCartItems = items;
 
-            var shoppingCartViewModel = new ShoppingCartViewModel(_shoppingCart, _shoppingCart.GetShoppingCartTotal());
+            var shoppingCartViewModel = new ShoppingCartViewModel(_shoppingCart, total);
 
             return View(shoppingCartViewModel);
         }
-
-        public RedirectToActionResult AddToShoppingCart(int medicamentId)
+        /// <summary>
+        /// Метод-обработчик страницы Index раздела ShoppingCart
+        /// </summary>
+        /// <param name="medicamentId">Идентификатор айтема медикамента</param>
+        /// <returns></returns>
+        public async Task<RedirectToActionResult> AddToShoppingCart(int medicamentId)
         {
-            var selectedMedicament = _medicamentRepository.AllMedicaments.FirstOrDefault(p => p.MedicamentId == medicamentId);
+            var medicament = await _medicamentRepository.AllMedicamentsAsync();
+            var selectedMedicament = medicament.FirstOrDefault(p => p.MedicamentId == medicamentId);
 
             if (selectedMedicament != null)
             {
-                _shoppingCart.AddToCart(selectedMedicament);
+                await _shoppingCart.AddToCartAsync(selectedMedicament);
             }
             return RedirectToAction("Index");
         }
-
-        public RedirectToActionResult RemoveFromShoppingCart(int medicamentId)
+        /// <summary>
+        /// Метод-обработчик страницы Index раздела Shopping Cart
+        /// </summary>
+        /// <param name="medicamentId">Идентификатор айтема медикамента</param>
+        /// <returns></returns>
+        public async Task<RedirectToActionResult> RemoveFromShoppingCart(int medicamentId)
         {
-            var selectedMedicament = _medicamentRepository.AllMedicaments.FirstOrDefault(p => p.MedicamentId == medicamentId);
+            var medicament = await _medicamentRepository.AllMedicamentsAsync();
+            var selectedMedicament = medicament.FirstOrDefault(p => p.MedicamentId == medicamentId);
 
             if (selectedMedicament != null)
             {
-                _shoppingCart.RemoveFromCart(selectedMedicament);
+                await _shoppingCart.RemoveFromCartAsync(selectedMedicament);
             }
             return RedirectToAction("Index");
         }

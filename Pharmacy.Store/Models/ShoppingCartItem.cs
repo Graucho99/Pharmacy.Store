@@ -1,5 +1,8 @@
 ﻿namespace Pharmacy.Store.Models
 {
+    /// <summary>
+    /// Модель айтема в корзине
+    /// </summary>
     public class ShoppingCartItem
     {
         public int ShoppingCartItemId { get; set; }

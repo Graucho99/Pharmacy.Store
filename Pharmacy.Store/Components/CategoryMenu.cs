@@ -3,18 +3,30 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Pharmacy.Store.Components
 {
+    /// <summary>
+    /// Класс-компонент для выпадающего меню категорий на главной странице
+    /// </summary>
     public class CategoryMenu : ViewComponent
     {
         private readonly ICategoryRepository _categoryRepository;
 
+        /// <summary>
+        /// Конструктор класса
+        /// </summary>
+        /// <param name="categoryRepository">Объект категории</param>
         public CategoryMenu(ICategoryRepository categoryRepository)
         {
             _categoryRepository = categoryRepository;
         }
 
-        public IViewComponentResult Invoke()
+        /// <summary>
+        /// Метод-обработчик, представляющий выборку с категориями
+        /// </summary>
+        /// <returns></returns>
+        public async Task<IViewComponentResult> InvokeAsync()
         {
-            var categories = _categoryRepository.AllCategories.OrderBy(c => c.CategoryName);
+            var categoriesSelected = await _categoryRepository.AllCategories();
+            var categories = categoriesSelected.OrderBy(c => c.CategoryName);
             return View(categories);
         }
     }

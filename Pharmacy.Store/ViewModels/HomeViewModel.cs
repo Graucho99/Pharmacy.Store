@@ -1,14 +1,23 @@
-﻿using Pharmacy.Store.Models;
+﻿using Microsoft.AspNetCore.Mvc;
+using Pharmacy.Store.Models;
 
 namespace Pharmacy.Store.ViewModels
 {
+    /// <summary>
+    /// ViewModel главной страницы
+    /// </summary>
     public class HomeViewModel
     {
-        public IEnumerable<Medicament> MedicamentsOfTheWeek { get; }
+        public IEnumerable<Medicament> DiscountsOfTheWeek { get; }
 
-        public HomeViewModel(IEnumerable<Medicament> medicamentsOfTheWeek)
+        /// <summary>
+        /// Конструктор класса
+        /// </summary>
+        /// <param name="discountsOfTheWeek">Медикаменты со скидкой</param>
+        public HomeViewModel(IEnumerable<Medicament> discountsOfTheWeek)
         {
-            MedicamentsOfTheWeek = medicamentsOfTheWeek;
+            DiscountsOfTheWeek = discountsOfTheWeek;
         }
+
     }
 }

@@ -24,14 +24,14 @@ namespace Pharmacy.Store.Pages
         }
 
 
-        public IActionResult OnPost()
+        public async Task<IActionResult> OnPost()
         {
             if (!ModelState.IsValid)
             {
                 return Page();
             }
 
-            var items = _shoppingCart.GetShoppingCartItems();
+            var items = await _shoppingCart.GetShoppingCartItemsAsync();
             _shoppingCart.ShoppingCartItems = items;
 
             if (_shoppingCart.ShoppingCartItems.Count == 0)
@@ -41,8 +41,8 @@ namespace Pharmacy.Store.Pages
 
             if (ModelState.IsValid)
             {
-                _orderRepository.CreateOrder(Order);
-                _shoppingCart.ClearCart();
+                await _orderRepository.CreateOrderAsync(Order);
+                await _shoppingCart.ClearCartAsync();
                 return RedirectToPage("CheckoutCompletePage");
             }
             return Page();

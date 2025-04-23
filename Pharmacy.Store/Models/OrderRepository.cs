@@ -1,22 +1,35 @@
 ﻿namespace Pharmacy.Store.Models
 {
+    /// <summary>
+    /// Репозиторий заказа
+    /// </summary>
     public class OrderRepository : IOrderRepository
     {
         private readonly PharmacyStoreDbContext _pharmacyStoreDbContext;
         private readonly IShoppingCart _shoppingCart;
 
-        public OrderRepository(PharmacyStoreDbContext bethanysMedicamentShopDbContext, IShoppingCart shoppingCart)
+        /// <summary>
+        /// Конструктор класса
+        /// </summary>
+        /// <param name="pharmacyStoreDbContext">Объект DbContext</param>
+        /// <param name="shoppingCart">Объект корзины</param>
+        public OrderRepository(PharmacyStoreDbContext pharmacyStoreDbContext, IShoppingCart shoppingCart)
         {
-            _pharmacyStoreDbContext = bethanysMedicamentShopDbContext;
+            _pharmacyStoreDbContext = pharmacyStoreDbContext;
             _shoppingCart = shoppingCart;
         }
 
-        public void CreateOrder(Order order)
+        /// <summary>
+        /// Метод, добавляющий заказ в БД
+        /// </summary>
+        /// <param name="order">Модель заказа</param>
+        /// <returns></returns>
+        public async Task CreateOrderAsync(Order order)
         {
             order.OrderPlaced = DateTime.Now;
 
             List<ShoppingCartItem>? shoppingCartItems = _shoppingCart.ShoppingCartItems;
-            order.OrderTotal = _shoppingCart.GetShoppingCartTotal();
+            order.OrderTotal = await _shoppingCart.GetShoppingCartTotalAsync();
 
             order.OrderDetails = new List<OrderDetail>();
 
@@ -32,9 +45,9 @@
                 order.OrderDetails.Add(orderDetail);
             }
 
-            _pharmacyStoreDbContext.Orders.Add(order);
+            await _pharmacyStoreDbContext.Orders.AddAsync(order);
 
-            _pharmacyStoreDbContext.SaveChanges();
+            await _pharmacyStoreDbContext.SaveChangesAsync();
         }
     }
 }

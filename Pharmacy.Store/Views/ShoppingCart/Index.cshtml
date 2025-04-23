@@ -1,33 +1,39 @@
 ﻿@model ShoppingCartViewModel
 
-<h3 class="my-5">
+<h1 class="my-5">
     Корзина
-</h3>
+</h1>
 
 
 <div class="row gx-3">
-    <div class="col-8">
+    <div class="col-8 cart-product-card">
         @foreach (var line in Model.ShoppingCart.ShoppingCartItems)
         {
             <div class="card shopping-cart-card mb-2">
                 <div class="row">
-                    <div class="col-md-4">
-                        <img src="@line.Medicament.ImageThumbnailUrl" class="img-fluid rounded-start p-2" alt="@line.Medicament.Name">
+                    <div class="col-md-4 cart-product-pic">
+                        <img src="@line.Medicament.ImageThumbnailUrl" class="img-fluid" alt="@line.Medicament.Name">
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h5 class="card-text">@line.Amount x @line.Medicament.Name</h5>
-                            <div class="d-flex justify-content-between">
-                                <h6>@line.Medicament.ShortDescription</h6>
-                                <h2>@line.Medicament.Price.ToString("c")</h2>
+                            <p class="card-text cart-product-name">@line.Medicament.Name</p>
+                            <div class="justify-content-between">
+                                <p class="cart-product-desc">@line.Medicament.ShortDescription</p>
+                                <p class="cart-product-price">@line.Medicament.Price.ToString("c")</p>
+
                             </div>
+                               <a class="btn btn-secondary" asp-controller="ShoppingCart" asp-action="RemoveFromShoppingCart"
+                               asp-route-medicamentId="@line.Medicament.MedicamentId">-</a>
+                               @line.Amount
+                               <a class="btn btn-secondary" asp-controller="ShoppingCart" asp-action="AddToShoppingCart"
+                               asp-route-medicamentId="@line.Medicament.MedicamentId">+</a>
                         </div>
                     </div>
                 </div>
             </div>
         }
     </div>
-    <div class="col-4">
+    <div class="col-4 cart-product-total">
         <div class="card shopping-cart-card p-3">
             <div class="row">
                 <h4 class="col">Всего:</h4>
@@ -35,8 +41,7 @@
             </div>
             <hr />
             <div class="text-center d-grid">
-                <a class="btn btn-secondary" asp-controller="Order" asp-action="Checkout"><h4>Оформить заказ</h4></a>
-
+                <a class="btn btn-secondary cart-complete" asp-controller="Order" asp-action="Checkout">Оформить заказ</a>
             </div>
         </div>
     </div>

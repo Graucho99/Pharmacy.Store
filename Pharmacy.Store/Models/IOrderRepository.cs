@@ -1,7 +1,10 @@
 ﻿namespace Pharmacy.Store.Models
 {
+    /// <summary>
+    /// Интерфейс для репозитория заказа
+    /// </summary>
     public interface IOrderRepository
     {
-        void CreateOrder(Order order);
+        Task CreateOrderAsync(Order order);
     }
 }

@@ -4,42 +4,60 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Pharmacy.Store.Controllers.Api
 {
+    /// <summary>
+    /// 
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public class SearchController : ControllerBase
     {
         private readonly IMedicamentRepository _medicamentRepository;
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="medicamentRepository"></param>
         public SearchController(IMedicamentRepository medicamentRepository)
         {
             _medicamentRepository = medicamentRepository;
         }
 
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
-        public IActionResult GetAll()
+        public async Task<IActionResult> GetAllAsync()
         {
-            var allMedicaments = _medicamentRepository.AllMedicaments;
+            var allMedicaments = await _medicamentRepository.AllMedicamentsAsync();
             return Ok(allMedicaments);
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public async Task<IActionResult> GetByIdAsync(int id)
         {
-            if (!_medicamentRepository.AllMedicaments.Any(p => p.MedicamentId == id))
+            var allMedicaments = await _medicamentRepository.AllMedicamentsAsync();
+            if (!allMedicaments.Any(p => p.MedicamentId == id))
                 return NotFound();
             //return new JsonResult(_medicamentRepository.AllMedicaments.Where(p =>p.MedicamentId == id);
-            return Ok(_medicamentRepository.AllMedicaments.Where(p => p.MedicamentId == id));
+            return Ok(allMedicaments.Where(p => p.MedicamentId == id));
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="searchQuery"></param>
+        /// <returns></returns>
         [HttpPost]
-        public IActionResult SearchMedicaments([FromBody] string searchQuery)
+        public async Task <IActionResult> SearchMedicaments([FromBody] string searchQuery)
         {
             IEnumerable<Medicament> medicaments = new List<Medicament>();
 
             if (!string.IsNullOrEmpty(searchQuery))
             {
-                medicaments = _medicamentRepository.SearchMedicaments(searchQuery);
+                medicaments = await _medicamentRepository.SearchMedicamentsAsync(searchQuery);
             }
             return new JsonResult(medicaments);
         }

@@ -1,7 +1,10 @@
 ﻿namespace Pharmacy.Store.Models
 {
+    /// <summary>
+    /// Интерфейс для репозитория категорий товаров
+    /// </summary>
     public interface ICategoryRepository
     {
-        IEnumerable<Category> AllCategories { get; }
+        Task<IEnumerable<Category>> AllCategories();
     }
 }

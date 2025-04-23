@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\final\\Pharmacy.Store\\Pharmacy.Store.csproj": {}
+    "B:\\may\\Pharmacy.Store\\Pharmacy.Store.csproj": {}
   },
   "projects": {
-    "B:\\final\\Pharmacy.Store\\Pharmacy.Store.csproj": {
+    "B:\\may\\Pharmacy.Store\\Pharmacy.Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\final\\Pharmacy.Store\\Pharmacy.Store.csproj",
+        "projectUniqueName": "B:\\may\\Pharmacy.Store\\Pharmacy.Store.csproj",
         "projectName": "Pharmacy.Store",
-        "projectPath": "B:\\final\\Pharmacy.Store\\Pharmacy.Store.csproj",
+        "projectPath": "B:\\may\\Pharmacy.Store\\Pharmacy.Store.csproj",
         "packagesPath": "C:\\Users\\kropo\\.nuget\\packages\\",
-        "outputPath": "B:\\final\\Pharmacy.Store\\obj\\",
+        "outputPath": "B:\\may\\Pharmacy.Store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -51,15 +51,31 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.35, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.4, )"
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.18, )"
             }
           },
           "imports": [

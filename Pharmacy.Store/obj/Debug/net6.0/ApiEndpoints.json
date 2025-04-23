@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "Pharmacy.Store.Controllers.Api.SearchController",
-    "Method": "GetAll",
+    "Method": "GetAllAsync",
     "RelativePath": "api/Search",
     "HttpMethod": "GET",
     "IsController": true,
@@ -27,7 +27,7 @@
   },
   {
     "ContainingType": "Pharmacy.Store.Controllers.Api.SearchController",
-    "Method": "GetById",
+    "Method": "GetByIdAsync",
     "RelativePath": "api/Search/{id}",
     "HttpMethod": "GET",
     "IsController": true,

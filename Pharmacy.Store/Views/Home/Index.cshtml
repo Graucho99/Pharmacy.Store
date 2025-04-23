@@ -3,13 +3,12 @@
 <partial name="_Carousel" />
 
 <div class="text-center">
-    <img src="images/pharmacy-store-logo.png" class="logo-mark mx-auto" />
     <h1>Скидки недели</h1>
     <h5>Успейте приобрести по выгодным ценам</h5>
 
     <div class="row medicaments-of-the-week">
         <div class="row row-cols-1 row-cols-md-3 g-4">
-            @foreach (var medicament in Model.MedicamentsOfTheWeek)
+            @foreach (var medicament in Model.DiscountsOfTheWeek)
             {
                 <partial name="_MedicamentCard" model="medicament" />
             }
